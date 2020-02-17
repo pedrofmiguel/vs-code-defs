@@ -1,0 +1,41 @@
+{
+    "vsicons.dontShowNewVersionMessage": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    },
+    "window.zoomLevel": 1,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": " 'Fira Code' ",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "SynthWave '84",
+    "eslint.autoFixOnSave": true,
+    "files.eol": "\n",
+    "beautify.language": {
+        "html": ["html", "php", "erb"],
+        "css": [],
+        "js": []
+      } ,
+    "[scss]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#0084ffad",
+        
+        "editor.findMatchBackground":"#eb6060ad",
+        "comments": "#d4922f"
+        },
+    "todo-tree.highlights.enabled": true,
+    "workbench.tree.indent": 4,
+    "diffEditor.ignoreTrimWhitespace": false,
+}
